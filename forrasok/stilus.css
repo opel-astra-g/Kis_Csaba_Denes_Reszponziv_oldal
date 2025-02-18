@@ -50,6 +50,11 @@ article {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 10px;
 }
+#bekezdes_footer {
+    background-color: green;
+    border: 5px solid black;
+    font-size: large;
+}
 @media screen and (max-width:800px){
     article{
         grid-template-columns: 1fr 1fr;
